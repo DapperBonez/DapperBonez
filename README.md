@@ -5,7 +5,7 @@
 
 ### Self Taught Skills:
   I have, over the years taught myself Linux and Windows OS repair and configurations. I'm confident in my Google search skills to fix Macs as well 😄.
-  I know the basics in a few programming languages including Java, Javascript, Python, and am currently improving my shell(scripting) abilities.
+  I know the basics in a few programming languages including Java, Javascript, Python, and am currently improving my shell(scripting) abilities. I also would need a refresher but know HTML and CSS.
 
 ### Contact
   I am best reached through Discord as far as social media of any kind is concerned - same username - DapperBonez
